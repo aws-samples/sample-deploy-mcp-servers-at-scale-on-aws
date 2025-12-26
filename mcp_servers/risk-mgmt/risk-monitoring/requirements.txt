@@ -1,3 +1,3 @@
 mcp==1.9.3
 starlette==0.47.0 
-fastmcp==2.7.0 
+fastmcp==2.14.0 
